@@ -24,22 +24,52 @@ This time, when I started working on Google Cloud it was a bit different because
 
 ✅ Simplifies the process to focus on growth.
 
-
 ✅ Empower women with the right tools to succeed.
 
+#### Technologies:
+
+* Google Cloud Platform
+* Google Cloud’s Dialogflow
+* Natural Language Processing (NLP)
+* Web Development Tools
+
 **But Wait, There’s More!**
+
 This project isn’t just about the chatbot. It’s part of the larger **sheConnect** - a faithful community committed to helping women entrepreneurs grow, connect, and succeed. At **sheConnect**, we’re all about creating a supportive community and offering the right tools to break barriers and fuel business growth.
 
 ✅ **Curated Resources:** Expert insights, guides, and success stories to inspire and educate.
 
-
 ✅ **Networking Opportunities:** Connect with fellow entrepreneurs, mentors, and industry leaders.
-
 
 ✅ **Innovative Tools:** Direct access to HerGuide and other tools that simplify your entrepreneurial journey.
 
+
+#### Installation:
+
+Follow these steps to run the project locally:
+
+1. Clone the Repository:
+   ```
+    git clone https://github.com/your-username/HerGuide--Your-Smart-Google-Chatbot-Revolutionizing-Grants-for-Entrepreners.git
+   ```
+
+2. Install Dependencies
+   ```
+   npm install
+   ```
+
+3. Configure Google Cloud Credentials: Follow the [Google Cloud documentation](https://cloud.google.com/) to set up your environment.
+   
+5. Start the **chatbot** with:
+   ```
+   npm start dev
+   ```
+
 **HerGuide together with sheConnect create a powerful platform that works to enable female entrepreneurs and turn setbacks into new possibilities.**
 
+If you want to watch in detail implementation, please watch the video:
+
+https://youtu.be/5p7M3yvkZSA?si=cLxVHeg-XwlMP-5R
 
 ## 💬 Feedback & Support:
 
