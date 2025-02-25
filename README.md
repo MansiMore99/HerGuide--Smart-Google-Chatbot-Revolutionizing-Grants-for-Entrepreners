@@ -33,6 +33,9 @@ This time, when I started working on Google Cloud it was a bit different because
 * Natural Language Processing (NLP) 🧠
 * Web Development Tools 🛠️
 
+<img width="338" alt="Screenshot 2025-02-25 at 1 47 24 AM" src="https://github.com/user-attachments/assets/a14f2863-c9e6-412d-8d27-825e7bc6003e" />
+
+
 **But Wait, There’s More!** 📚✨
 
 This project isn’t just about the chatbot. It’s part of the larger **sheConnect** - a faithful community committed to helping women entrepreneurs grow, connect, and succeed. At **sheConnect**, we’re all about creating a supportive community and offering the right tools to break barriers and fuel business growth.
@@ -70,6 +73,8 @@ Follow these steps to run the project locally:
 If you want to watch in detail implementation, please watch the video: 🎥
 
 [Build a Chatbot with Google Cloud to Support Women Entrepreneurs](https://youtu.be/5p7M3yvkZSA?si=cLxVHeg-XwlMP-5R)
+
+<img width="1464" alt="Screenshot 2025-02-25 at 1 48 36 AM" src="https://github.com/user-attachments/assets/ad805bb5-5672-4b66-bda8-9857f2fee1f7" />
 
 ## 💬 Feedback & Support:
 
