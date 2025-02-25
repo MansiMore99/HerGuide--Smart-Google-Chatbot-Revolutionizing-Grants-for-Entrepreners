@@ -2,6 +2,8 @@ There are many incredible women out there who are building businesses, breaking 
 
 Your hard work and passion are truly inspiring!!! ✨💪
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 And the amazing thing is, that many of them are supported by a male co-founder, a friend, or a family. Success is never a solo journey; it is always teamwork and supporting each other. 💪✨
 
 ![github1-ezgif com-webp-to-jpg-converter](https://github.com/user-attachments/assets/2072693d-ae7a-4e53-8d09-c2d912206f75)
@@ -13,7 +15,11 @@ Women founders spend HOURS hunting for grants, taking valuable time away from gr
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Let me introduce the **HerGuide Bot**!!!🤖✨
+Let me introduce the 
+
+**HerGuide Bot**!!!🤖✨
+
+
 This chatbot is designed to support women entrepreneurs by helping them find small business grants tailored to their needs. It simplifies the process so they can spend less time researching and more time focusing on their business goals. 🎯🚀
 
 This time, when I started working on Google Cloud it was a bit different because I kept a specific topic(aim) in mind while selecting a project topic. I specifically created a Sheconnect website, that helps women entrepreneurs grow by developing a chatbot that helps them find grants quickly, simplifies the process to focus on growth, and empowers them with the right tools to succeed. 🌟🌱
