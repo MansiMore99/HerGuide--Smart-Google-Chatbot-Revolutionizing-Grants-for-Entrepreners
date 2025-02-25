@@ -1,6 +1,6 @@
-There are many incredible women out there who are building businesses, breaking barriers, and making a difference. Some of them are young, some are married and balancing both responsibilities together, and some are single mothers. Shoutout to all these BusinessWomen!!!
+There are many incredible women out there who are building businesses, breaking barriers, and making a difference. Some of them are young, some are married and balancing both responsibilities together, and some are single mothers. Shoutout to all these BusinessWomen!!! 🤩🙌
 
-Your hard work and passion are truly inspiring!!! 🤩🙌
+Your hard work and passion are truly inspiring!!! ✨💪
 
 And the amazing thing is, that many of them are supported by a male co-founder, a friend, or a family. Success is never a solo journey; it is always teamwork and supporting each other. 💪✨
 
@@ -9,14 +9,14 @@ And the amazing thing is, that many of them are supported by a male co-founder, 
 In business, the most essential thing to grow is funding. Managing everything together is a difficult task. Let’s make it easier for them. Creating a supporter or a guide that can be available 24 * 7 for her. Where she can feel connected.
 
 #### The Problem:
-Women founders spend HOURS hunting for grants, taking valuable time away from growing their businesses. 💔
+Women founders spend HOURS hunting for grants, taking valuable time away from growing their businesses. ⏰💔
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Let me introduce the **HerGuide Bot**!!!
-This chatbot is designed to support women entrepreneurs by helping them find small business grants tailored to their needs. It simplifies the process so they can spend less time researching and more time focusing on their business goals.
+Let me introduce the **HerGuide Bot**!!!🤖✨
+This chatbot is designed to support women entrepreneurs by helping them find small business grants tailored to their needs. It simplifies the process so they can spend less time researching and more time focusing on their business goals. 🎯🚀
 
-This time, when I started working on Google Cloud it was a bit different because I kept a specific topic(aim) in mind while selecting a project topic. I specifically created a Sheconnect website, that helps women entrepreneurs grow by developing a chatbot that helps them find grants quickly, simplifies the process to focus on growth, and empowers them with the right tools to succeed.
+This time, when I started working on Google Cloud it was a bit different because I kept a specific topic(aim) in mind while selecting a project topic. I specifically created a Sheconnect website, that helps women entrepreneurs grow by developing a chatbot that helps them find grants quickly, simplifies the process to focus on growth, and empowers them with the right tools to succeed. 🌟🌱
 
 ### Features:
 
@@ -28,12 +28,12 @@ This time, when I started working on Google Cloud it was a bit different because
 
 #### Technologies:
 
-* Google Cloud Platform
-* Google Cloud’s Dialogflow
-* Natural Language Processing (NLP)
-* Web Development Tools
+* Google Cloud Platform ☁️
+* Google Cloud’s Dialogflow 🤖
+* Natural Language Processing (NLP) 🧠
+* Web Development Tools 🛠️
 
-**But Wait, There’s More!**
+**But Wait, There’s More!** 📚✨
 
 This project isn’t just about the chatbot. It’s part of the larger **sheConnect** - a faithful community committed to helping women entrepreneurs grow, connect, and succeed. At **sheConnect**, we’re all about creating a supportive community and offering the right tools to break barriers and fuel business growth.
 
@@ -44,13 +44,13 @@ This project isn’t just about the chatbot. It’s part of the larger **sheConn
 ✅ **Innovative Tools:** Direct access to HerGuide and other tools that simplify your entrepreneurial journey.
 
 
-#### Installation:
+#### Installation:🛠️
 
 Follow these steps to run the project locally:
 
 1. Clone the Repository:
    ```
-    git clone https://github.com/your-username/HerGuide--Your-Smart-Google-Chatbot-Revolutionizing-Grants-for-Entrepreners.git
+    git clone https://github.com/MansiMore99/HerGuide--Smart-Google-Chatbot-Revolutionizing-Grants-for-Entrepreners.git
    ```
 
 2. Install Dependencies
@@ -67,9 +67,9 @@ Follow these steps to run the project locally:
 
 **HerGuide together with sheConnect create a powerful platform that works to enable female entrepreneurs and turn setbacks into new possibilities.**
 
-If you want to watch in detail implementation, please watch the video:
+If you want to watch in detail implementation, please watch the video: 🎥
 
-https://youtu.be/5p7M3yvkZSA?si=cLxVHeg-XwlMP-5R
+[Build a Chatbot with Google Cloud to Support Women Entrepreneurs](https://youtu.be/5p7M3yvkZSA?si=cLxVHeg-XwlMP-5R)
 
 ## 💬 Feedback & Support:
 
