@@ -11,6 +11,7 @@ In business, the most essential thing to grow is funding. Managing everything to
 #### The Problem:
 Women founders spend HOURS hunting for grants, taking valuable time away from growing their businesses. 💔
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Let me introduce the **HerGuide Bot**!!!
 This chatbot is designed to support women entrepreneurs by helping them find small business grants tailored to their needs. It simplifies the process so they can spend less time researching and more time focusing on their business goals.
@@ -20,16 +21,39 @@ This time, when I started working on Google Cloud it was a bit different because
 ### Features:
 
 ✅ Helps women entrepreneurs find grants quickly.
+
 ✅ Simplifies the process to focus on growth.
+
+
 ✅ Empower women with the right tools to succeed.
 
 **But Wait, There’s More!**
 This project isn’t just about the chatbot. It’s part of the larger **sheConnect** - a faithful community committed to helping women entrepreneurs grow, connect, and succeed. At **sheConnect**, we’re all about creating a supportive community and offering the right tools to break barriers and fuel business growth.
 
 ✅ **Curated Resources:** Expert insights, guides, and success stories to inspire and educate.
+
+
 ✅ **Networking Opportunities:** Connect with fellow entrepreneurs, mentors, and industry leaders.
+
+
 ✅ **Innovative Tools:** Direct access to HerGuide and other tools that simplify your entrepreneurial journey.
 
 **HerGuide together with sheConnect create a powerful platform that works to enable female entrepreneurs and turn setbacks into new possibilities.**
+
+
+## 💬 Feedback & Support:
+
+I'm always looking to improve! Share your thoughts and suggestions:
+
+- **Email:** mansi.more943@gmail.com
+- **GitHub:** [MansiMore99](https://github.com/MansiMore99)
+- **Linkedin:** [MansiMore](https://linkedin.com/in/mansi-more-0943)
+
+## 📢 Contributing:
+
+Would you be interested in contributing? I welcome your improvements and ideas. You can Fork the repository, make changes, and submit a pull request!
+
+
+<a href="https://www.linkedin.com/in/mansi-more-0943/"> ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
 
