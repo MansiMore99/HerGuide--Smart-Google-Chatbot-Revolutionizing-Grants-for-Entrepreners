@@ -1,8 +1,4 @@
-There are many incredible women out there who are building businesses, breaking barriers, and making a difference. Some of them are young, some are married and balancing both responsibilities together, and some are single mothers. Shoutout to all these BusinessWomen!!! 🤩🙌
-
-Your hard work and passion are truly inspiring!!! ✨💪
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+There are many incredible women out there who are building businesses, breaking barriers, and making a difference. Some of them are young, some are married and balancing both responsibilities together, and some are single mothers. Shoutout to all these BusinessWomen!!! 🤩 Your hard work and passion are truly inspiring!!! ✨💪
 
 And the amazing thing is, that many of them are supported by a male co-founder, a friend, or a family. Success is never a solo journey; it is always teamwork and supporting each other. 💪✨
 
